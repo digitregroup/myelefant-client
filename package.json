@@ -1,0 +1,15 @@
+{
+  "name": "@digitregroup/myelefant-client",
+  "version": "1.0.0",
+  "description": "Client for MyElefant",
+  "main": "build/MyElefant.js",
+  "types": "build/MyElefant.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Dominique",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
