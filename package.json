@@ -1,7 +1,7 @@
 {
   "name": "@digitregroup/myelefant-client",
   "version": "1.0.0",
-  "description": "Client for MyElefant",
+  "description": "MyElefant Client is a library for sending sms via MyElefant api.",
   "main": "build/MyElefant.js",
   "types": "build/MyElefant.d.ts",
   "scripts": {
