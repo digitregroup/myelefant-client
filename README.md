@@ -1,6 +1,6 @@
 # MyElefant Client
 
-MyElefant Client is a library for send sms througt MyElefant api.
+MyElefant Client is a library for sending sms via MyElefant api.
 
 ## Installation
 
@@ -14,7 +14,6 @@ npm install @digitregroup/myelefant-client
 const { MyElefant } = require('@digitregroup/myelefant-client');
 const apiKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 const campaignUuid = 'xxxxxxx-xxx-xxx-xxx-xxxxxxxxxx';
-
 
 (async () => {
 
